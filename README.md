@@ -16,7 +16,7 @@
   [![portfolio](https://user-images.githubusercontent.com/89200643/237054471-990013e0-1ca0-4f92-9e32-4f65a6d464d5.png)](https://heeseok-j.github.io/portfolio-react/)
   </br>
   </br>
-  My Portfolio : (https://heeseok-j.github.io/portfolio-react)
+  My Portfolio : (https://github.com/heeseok-j/portfolio-react)
 </div>
 </br>
 
